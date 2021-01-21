@@ -20,7 +20,7 @@
 
 I'm a young student searching for a team to achieve goals together, improve skills in software development and make the difference.
 
-You can find me in [LinkedIn](https://www.linkedin.com/in/willians-tavares95/) or you cand send me [an email](mailto:willians.tavares1995@gmail.com)
+You can find me in [LinkedIn](https://www.linkedin.com/in/willians-tavares95/), call me in [Whatsapp](https://api.whatsapp.com/send?phone=5511943206420) or you can send me [an email](mailto:willians.tavares1995@gmail.com)
 
 
 
