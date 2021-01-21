@@ -1,7 +1,3 @@
-
-
-
-
  
 <p> 
  <img height="250" align='right'  src="https://i.pinimg.com/originals/d9/04/f1/d904f1182363443fd3508d1b0093ffcd.gif">
@@ -11,7 +7,7 @@
 
 I'm a young student searching for a team to achieve goals together, improve skills in software development and make the difference.
 
-You can find me in [LinkedIn](https://www.linkedin.com/in/willians-tavares95/), call me in [Whatsapp](https://api.whatsapp.com/send?phone=5511943206420) or you can send me [an email](mailto:willians.tavares1995@gmail.com)
+You can find me in [LinkedIn](https://www.linkedin.com/in/willians-tavares95/), call me in [Whatsapp](https://api.whatsapp.com/send?phone=5511943206420) or you can send me [an email.](mailto:willians.tavares1995@gmail.com)
 
   ---
   
