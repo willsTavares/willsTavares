@@ -5,7 +5,7 @@
  
 ### Hi there ✌
 
-I'm a young student searching for a team to achieve goals together, improve skills in software development and make the difference.
+I'm young ambitious student looking to join a team and together achieve amazing goals, improve skills in software development and make a difference.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/willians-tavares95/) or call me on [Whatsapp.](https://api.whatsapp.com/send?phone=5511943206420)
 
