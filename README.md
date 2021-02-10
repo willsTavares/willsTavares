@@ -1,6 +1,6 @@
  
 <p> 
- <img height="250" align='right'  src="https://i.pinimg.com/originals/d9/04/f1/d904f1182363443fd3508d1b0093ffcd.gif">
+ <img height="250" align='right'  src="Assets/skullprogramming.gif">
 </p>
  
 ### Hi there ✌
