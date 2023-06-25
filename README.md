@@ -1,13 +1,14 @@
- 
-<p> 
- <img height="250" align='right'  src="Assets/skullprogramming.gif">
-</p>
+
  
 ### Hi there ✌
 
-I'm young ambitious student looking to join a team and together achieve amazing goals, improve skills in software development and make a difference.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/willians-tavares95/) or call me on [Whatsapp.](https://api.whatsapp.com/send?phone=5511943206420)
+
+<div align='center'> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=willsTavares&theme=tokyonight&show_icons=true">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsTavares&theme=tokyonight&layout=compact">
+</div>
 
   ---
   
@@ -17,6 +18,4 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/willians-tavares95/) o
 <a href="https://www.instagram.com/hot.wills/"><img height="30" src="Assets/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://api.whatsapp.com/send?phone=5511943206420"><img height="30" src="Assets/whatsapp.png"></a>&nbsp;&nbsp;
 </p>
-
-
 
