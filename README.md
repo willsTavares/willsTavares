@@ -8,7 +8,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/willians-tavares95/) o
 
 <div align='center'> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=willsTavares&show_icons=true&rank_icon=github&include_all_commits=true&theme=github_dark">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsTavares&theme=github_dark&layout=donut">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsTavares&theme=github_dark&layout=donut&hide=html,css,mdx,scss">
 </div>
 
   ---
