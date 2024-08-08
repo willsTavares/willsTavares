@@ -4,7 +4,7 @@
  
 ### Hi there ✌
 
-I'm an enthusiast deeply **passionate** about development, currently as Tech Lead at [Konia Tecnologia](https://konia.com.br/). With a strong foundation in C#, Kotlin and Javascript. My expertise spans not only application development but also cloud servers like AWS and Azure. 🚀
+I'm an enthusiast deeply **passionate** about development, currently as Tech Lead at [Konia Tecnologia](https://konia.com.br/). With a strong foundation in C#, Kotlin and Javascript. My expertise spans not only application development but also cloud servers like AWS and Azure. 
 
 <br>
 <br>
